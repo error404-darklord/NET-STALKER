@@ -1,10 +1,13 @@
+---
 # NET-STALKER
-**developer: ChatGPT X DARK-LORD**
+***developer: ChatGPT X DARK-LORD***
 **model: NET-STALKER**
 ---
-#INSTALL
+
+# INSTALL
+
 ---
-### TERMUX
+#### TERMUX
 ---
 ```
 pkg update && pkg upgrade -y
