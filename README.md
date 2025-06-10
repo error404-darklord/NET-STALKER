@@ -14,7 +14,7 @@
 
 ```
 pkg update && pkg upgrade -y
-git clone https://github.com/yourname/darklord.git
+git clone https://github.com/error404-darklord/darklord.git
 cd darklord
 pip install -r requirements.txt
 python main.py
