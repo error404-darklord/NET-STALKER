@@ -1,6 +1,6 @@
 # NET-STALKER
 ---
-*developer: ChatGPT X DARK-LORD*
+**developer: ChatGPT X DARK-LORD**
 *model: NET-STALKER*
 ---
 
