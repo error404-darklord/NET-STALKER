@@ -2,7 +2,7 @@
 **developer: ChatGPT X DARK-LORD**
 **model: NET-STALKER**
 
--- INSTALLING --
+--
 
 ```bash
 pkg update && pkg upgrade -y
