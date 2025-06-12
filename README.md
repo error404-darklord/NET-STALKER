@@ -1,4 +1,4 @@
-# NET-STALKER - v1.0.0 | dev - DARKLORD
+# NET-STALKER - v1.0.0
 **developer: ChatGPT X DARK-LORD**
 ___
 # install
