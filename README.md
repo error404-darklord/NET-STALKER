@@ -1,6 +1,5 @@
-# NET-STALKER
+# NET-STALKER - v1.0.0 | dev - DARKLORD
 **developer: ChatGPT X DARK-LORD**
-**model: NET-STALKER 1.0.0**
 ___
 # install
 ### TERMUX
@@ -23,4 +22,6 @@ pip install -r requirements.txt
 python3 main.py
 ```
 ___
-**[больше софтов у меня в телеге](https://t.me/DATABASE6576807265484849)**
+# DESCRIPTION
+спасибо что просмотрели репозиторий все вопросы ко мне в тг.
+**[больше софтов у меня в телеге кликай сюда что бы перейти](https://t.me/DATABASE6576807265484849)**
