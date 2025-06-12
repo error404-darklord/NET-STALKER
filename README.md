@@ -22,6 +22,5 @@ cd NET-STALKER
 pip install -r requirements.txt
 python3 main.py
 ```
-
----
+###
 **[больше софтов у меня в телеге](https://t.me/DATABASE6576807265484849)**
