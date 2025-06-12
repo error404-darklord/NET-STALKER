@@ -4,7 +4,6 @@
 *model: NET-STALKER 1.0.0*
 ___
 # install
-___
 ### TERMUX
 
 ```
