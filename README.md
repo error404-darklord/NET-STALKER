@@ -1,7 +1,8 @@
 # NET-STALKER
 ---
 **developer: ChatGPT X DARK-LORD**
-*model: NET-STALKER 1.0.0*
+
+**model: NET-STALKER 1.0.0**
 ___
 # install
 ### TERMUX
