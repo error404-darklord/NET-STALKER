@@ -14,5 +14,15 @@ pip install -r requirements.txt
 python main.py
 ```
 
+### LINUX - UBUNTU/DEBIAN
+
+```
+sudo apt update && sudo apt upgrade -y
+git clone https://github.com/error404-darklord/NET-STALKER.git
+cd NET-STALKER
+pip install -r requirements.txt
+python3 main.py
+```
+
 ---
 **[больше софтов у меня в телеге](https://t.me/DATABASE6576807265484849)**
