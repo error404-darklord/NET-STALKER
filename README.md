@@ -3,9 +3,10 @@
 **developer: ChatGPT X DARK-LORD**
 *model: NET-STALKER 1.0.0*
 ___
-# INSTALL
+# INSTALL:
+___
 #### TERMUX
----
+___
 ```
 pkg update && pkg upgrade -y
 git clone https://github.com/error404-darklord/NET-STALKER.git
